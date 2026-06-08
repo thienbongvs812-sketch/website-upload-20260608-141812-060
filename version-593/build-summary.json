@@ -1,0 +1,11 @@
+{
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 10,
+  "html_file_count": 2015,
+  "category_card_total": 2000,
+  "baidu_missing": [],
+  "forbidden_hits": [],
+  "zip_path": "/mnt/data/static_movie_site_complete.zip",
+  "zip_size": 14318663
+}
